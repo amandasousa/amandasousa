@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **amandasousa/amandasousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,18 +15,21 @@ Here are some ideas to get you started:
 
 <h1>👋 &nbsp;Hey, I'm Amanda Sousa, a passionate developer professional!</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/amandasousa/"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UC8TRfZVb-M_ivbU9yiocTvQ"><img src="https://img.shields.io/badge/-My%20YT%20Channel-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
-<a href="mailto:amanda.sousab@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/amandasousa/"><img src="https://img.shields.io/badge/-Meu%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:amanda.sousab@gmail.com"><img src="https://img.shields.io/badge/-Me%20envie%20um%20email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+<h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
 
 Eu sou analista de Sistemas com experiencia técnica em desenvolvimento com C# e .NET. 
-Atuo como analista, fazendo uma ponte estratégica entre áreas técnicas e de negócio, faço levantamento de requisitos, análise de processos para suporte à tomada de decisão. 
+Atuo como analista, fazendo uma ponte estratégica entre áreas técnicas e de negócio, faço levantamento de requisitos, análise de processos para suporte à tomada de decisão.
 
 Minhas competências incluem:
+
+- Desenvolvimento backend em plataformas .net em novos projetos ou sistemas legados.
+- Ocasionalmente um front-end.
+
 - Resolução de problemas:
 	- Atendimento de chamados
 	- Priorizar e acompanhar demandas críticas até incidentes de parada dos sistemas.
@@ -38,36 +39,21 @@ Minhas competências incluem:
 	- Mapeamento de processos de negócios.
 	- Realizar análise de requisitos junto aos stakeholders.
 	- Escrever documentação.
-	- Organizar backlog de melhorias e evolução de Produto.
 
-
-Eu sou uma Analista de Sistemas com experiência em desenvolvimento backend, 
-I'm a software engineer focused on full stack development, passionate about building scalable, modern, and well-architected solutions. I’ve worked on high-impact projects in Brazil, the UK, and the US, using technologies like TypeScript, React & React Native, Next.js, Node.js, Docker, AWS, Kafka, Kubernetes, PostgreSQL, microservices, and much more.
-
-I wrote my first lines of code at age 11, when I wanted to create a private server for a game I loved at the time. After a lot of research, I finally got it online — and the feeling was magical. I realized I could customize anything just by writing code. That moment changed everything for me: I knew I wanted to become a developer.
-
-Since then, I’ve remained deeply passionate about programming and constantly strive to learn more and become a better professional every day.
 
 <h2> 🎓 &nbsp;Lifelong Learner & Educator </h2
 
-One of the things I'm most passionate about is continuous learning and sharing knowledge with others. Since the beginning of my journey, I've been fascinated not only by solving complex problems with code but also by helping others understand and grow in their own paths.
+Uma das coisas que eu sou mais apaixonada é continuar aprendendo e compartilhando conhecimentos com os outros. Desde o início da minha jornada, eu tenho fascínio não só em resolver problemas complexos através de códigos e processos, mas também em auxiliar outros a compreenderem e evoluírem em suas próprias jornadas.
 
-That's why I founded the <strong>[Full Stack Club](https://www.fullstackclub.com.br/)</strong>, a community where I mentor and support over <strong>3,000 aspiring developers</strong>. There, I teach practical skills in technologies like TypeScript, React, Node.js, and more — all with a hands-on, real-world approach focused on building solid careers in software engineering.
+Ensinar me ajuda a crescer tanto quanto programar, e estou sempre me esforçando para ser uma desenvolvedora, mentora e um ser humano melhor.
 
-I also run a [YouTube channel](https://www.youtube.com/@dicasparadevs) where I’ve been creating content for over 5 years. My videos have accumulated more than <strong>2.5 million views</strong>, and my React and Node.js courses are among the most watched in Brazil. Through my content, I aim to make high-quality programming education accessible and practical for everyone.
 
-Teaching helps me grow as much as coding does, and I'm always striving to be a better developer, mentor, and human being.
+<h2> 📚 &nbsp;O que você vai encontrar aqui?</h2>
 
-<h2> 📚 &nbsp;What will you find here?</h2>
+Estou buscando movimentar essa ferramenta, trabalhei em vários projetos internos e no momento estou buscando movimentar e atualizar meu GitHub como novos projetos.
 
-This GitHub is more than just a code repository — it's a reflection of my journey, experiences, and commitment to clean, purposeful software development. Whether you're a recruiter, a fellow developer, or someone learning to code, here's what you'll find:
-
-- Real-world projects used by thousands of users
-- Clean Architecture and SOLID principles in action
-- High test coverage with automated testing
-- Experiments, technical studies, and real-world best practices
-  
-If you’d like to connect, collaborate, or have any questions, feel free to <a href="mailto:felipemota.rocha@gmail.com">click here and send me an email</a> — or reach out on <a href="https://www.linkedin.com/in/felipe-rocha-034871172/">LinkedIn</a>. I'm always open to good conversations and interesting opportunities.
+Se você gosta de se conectar, colaborar ou tem alguma pergunta, você pode 
+ <a href="mailto:amanda.sousab.rocha@gmail.com">clicar aqui e me enviar um e-mail</a> — ou me achar no <a href="https://www.linkedin.com/in/amandasousa/">LinkedIn</a>. Estou sempre aberta a boas conversas e oportunidades interessantes. :) 
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
@@ -76,9 +62,6 @@ If you’d like to connect, collaborate, or have any questions, feel free to <a 
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-white.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSI0OHB4IiBoZWlnaHQ9IjQ4cHgiIGJhc2VQcm9maWxlPSJiYXNpYyI+PHBhdGggZmlsbD0iIzdjNGRmZiIgZD0iTTcuMzczLDExLjQ0M0M3LjI5Myw5LjEzMiw5LjA5NCw3LDExLjUyOSw3aDI0Ljk0NmMyLjQzNSwwLDQuMjM2LDIuMTMyLDQuMTU1LDQuNDQzCWMtMC4wNzcsMi4yMjEsMC4wMjMsNS4wOTcsMC43NDcsNy40NDNjMC43MjYsMi4zNTMsMS45NTEsMy44NCwzLjk1Nyw0LjAzMXYyLjE2N2MtMi4wMDYsMC4xOTEtMy4yMywxLjY3OC0zLjk1Nyw0LjAzMQljLTAuNzI0LDIuMzQ1LTAuODI0LDUuMjIyLTAuNzQ3LDcuNDQzQzQwLjcxLDM4Ljg2OCwzOC45MDksNDEsMzYuNDc1LDQxSDExLjUyOWMtMi40MzQsMC00LjIzNi0yLjEzMi00LjE1NS00LjQ0MwljMC4wNzctMi4yMjEtMC4wMjMtNS4wOTctMC43NDctNy40NDNjLTAuNzI2LTIuMzUzLTEuOTU0LTMuODQtMy45Ni00LjAzMXYtMi4xNjdjMi4wMDYtMC4xOTEsMy4yMzMtMS42NzgsMy45Ni00LjAzMQlDNy4zNSwxNi41NCw3LjQ1MSwxMy42NjQsNy4zNzMsMTEuNDQzeiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0yNy4wNzMsMjMuNDY0di0wLjAyOGMxLjg1My0wLjMyLDMuMjk5LTIuMDU3LDMuMjk5LTMuOTdjMC0xLjM1Mi0wLjUyLTIuNDk4LTEuNTA0LTMuMzEyCWMtMC45ODEtMC44MTItMi4zNTctMS4yNDEtMy45ODEtMS4yNDFIMTcuNDVWMzMuMDhoNy40NzVjMS45NDIsMCwzLjU1NS0wLjQ3NCw0LjY2My0xLjM3MmMxLjEwOS0wLjg5OSwxLjY5Ni0yLjIwNywxLjY5Ni0zLjc4MwlDMzEuMjgzLDI1LjU0NCwyOS41OTMsMjMuNzU2LDI3LjA3MywyMy40NjR6IE0yMy41OSwyMi42MDhoLTMuMTgxVjE3LjI5aDMuNzg0YzIuMDc2LDAsMy4yMTksMC45MTEsMy4yMTksMi41NjUJQzI3LjQxMywyMS42MywyNi4wNTUsMjIuNjA4LDIzLjU5LDIyLjYwOHogTTIwLjQwOSwyNC44MzRoMy43NTljMi43MTYsMCw0LjA5MiwwLjk4MSw0LjA5MiwyLjkxNmMwLDEuOTMyLTEuMzU3LDIuOTUzLTMuOTI1LDIuOTUzCWgtMy45MjZWMjQuODM0eiIvPjwvc3ZnPg==)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 
 <h3>⚙️ &nbsp;Back-end & databases:</h3>
 
@@ -89,4 +72,4 @@ If you’d like to connect, collaborate, or have any questions, feel free to <a 
 
 <h2>🚀 &nbsp;My GitHub Stats</h2>
 
-![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amandasousa&show_icons=true&theme=dracula)
+![Amanda Sousa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amandasousa&show_icons=true&theme=dracula)
