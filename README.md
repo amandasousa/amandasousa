@@ -41,7 +41,7 @@ Minhas competências incluem:
 	- Escrever documentação.
 
 
-<h2> 🎓 &nbsp;Lifelong Learner & Educator </h2
+<h2> 🎓 &nbsp;Eterno aprendiz e educador  </h2
 
 Uma das coisas que eu sou mais apaixonada é continuar aprendendo e compartilhando conhecimentos com os outros. Desde o início da minha jornada, eu tenho fascínio não só em resolver problemas complexos através de códigos e processos, mas também em auxiliar outros a compreenderem e evoluírem em suas próprias jornadas.
 
