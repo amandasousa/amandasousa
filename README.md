@@ -26,30 +26,30 @@ Atuo também fazendo uma ponte estratégica entre áreas técnicas e de negócio
 
 ## 🛠 **Technical Highlights**
 
-✔ **Linguagem C# e .NET**: Proficiência em C#, entendendo POO, LINQ, async/await, .NET Core/.NET.
-✔ **Javascript**: Criação e manutenção de scripts dentro do Microssoft Dynamics CRM.
-✔ **High-Performance APIs**: Criação de APIs e minimals APIs com .NET bem como consumo de APIs RESTfull.
-✔ **Clean Architecture**: Criação de sistemas fáceis de manter, testar e evoluir, garantindo que as regras de negócio sejam independentes.
-✔ **Controle de Versão**: Git (GitHub, GitLab, Bitbucket) para gerenciamento de código.
-✔ **Segurança:** Autenticação (JWT), autorização e proteção de dados. 
-✔ **Bancos de Dados**: SQL Server, consultas e procedures.
-✔ **Customização do Microssoft Dynamics CRM (Low-Code/No-Code)**: Criação e manutenção de javascripts, Entidades e Plugins.
+- ✔ **Linguagem C# e .NET**: Proficiência em C#, entendendo POO, LINQ, async/await, .NET Core/.NET. 
+- ✔ **Javascript**: Criação e manutenção de scripts dentro do Microssoft Dynamics CRM. 
+- ✔ **High-Performance APIs**: Criação de APIs e minimals APIs com .NET bem como consumo de APIs RESTfull. 
+- ✔ **Clean Architecture**: Criação de sistemas fáceis de manter, testar e evoluir, garantindo que as regras de negócio sejam independentes. 
+- ✔ **Controle de Versão**: Git (GitHub, GitLab, Bitbucket) para gerenciamento de código. 
+- ✔ **Segurança:** Autenticação (JWT), autorização e proteção de dados. 
+- ✔ **Bancos de Dados**: SQL Server, consultas e procedures. 
+- ✔ **Customização do Microssoft Dynamics CRM (Low-Code/No-Code)**: Criação e manutenção de javascripts, Entidades e Plugins. 
 
 ## 🎯 **Soft Skills**
 
-✔ **Resolução de Problemas**
+- ✔ **Resolução de Problemas**
 	- Habilidade de implementar algoritmos e resolver desafios complexos.
 	- Atendimento de chamados
 	- Habilidade de realizar troubleshooting em sistemas com diversas integrações.
-✔ **Comunicação e Documentação**: 
+- ✔ **Comunicação e Documentação**: 
  	- Trabalhar em equipe, entender requisitos e colaborar com outros stakeholders.
 	- Mapeamento de processos de negócios
 	- Levantamento de requisitos
 	- Escrever documentação.
-✔ **Aprendizado Contínuo**: Acompanhar as evoluções do .NET e novas tecnologias. 
+- ✔ **Aprendizado Contínuo**: Acompanhar as evoluções do .NET e novas tecnologias. 
 
 
-<h2> 📚 &nbsp;O que você vai encontrar aqui?</h2>
+<h2> 📚 &nbsp;O que você vai encontrar aqui? </h2>
 
 Estou buscando movimentar essa ferramenta, trabalhei em vários projetos internos no BitBucket e no momento estou buscando movimentar e atualizar meu GitHub como novos projetos.
 
