@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>👋 &nbsp;Hey, I'm Amanda Sousa, a passionate developer professional!</h1>
+<h1>👋 &nbsp;Hey, Eu sou Amanda Sousa, uma profissional de desenvolvimento apaixonada por tecnologia!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/amandasousa/"><img src="https://img.shields.io/badge/-Meu%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:amanda.sousab@gmail.com"><img src="https://img.shields.io/badge/-Me%20envie%20um%20email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
