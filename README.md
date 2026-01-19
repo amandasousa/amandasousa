@@ -13,32 +13,41 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>👋 &nbsp;Eu sou Amanda Sousa, uma profissional de desenvolvimento apaixonada por tecnologia!</h1>
-<p align="center">
-<a href="https://www.linkedin.com/in/amandasousa/"><img src="https://img.shields.io/badge/-Meu%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:amanda.sousab@gmail.com"><img src="https://img.shields.io/badge/-Me%20envie%20um%20email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+# 💻 Amanda Sousa
 
-</p>
-
-<h2>👩🏽‍💻 &nbsp;Sobre mim </h2>
+### Software Developer | Backend | C# | .NET 
 
 Eu sou uma Analista de Sistemas com experiencia técnica em desenvolvimento com C# e .NET. 
 Atuo também fazendo uma ponte estratégica entre áreas técnicas e de negócio, faço levantamento de requisitos, análise de processos para suporte à tomada de decisão.
 
-Minhas competências incluem:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandasousa/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanda.sousab@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5585991455965&text=Oi,%20Amanda,%20estou%20vindo%20do%20github...)
 
-- Desenvolvimento backend em plataformas .net em novos projetos ou sistemas legados.
-- Ocasionalmente um front-end.
+## 🛠 **Technical Highlights**
 
-- Resolução de problemas:
+✔ **Linguagem C# e .NET**: Proficiência em C#, entendendo POO, LINQ, async/await, .NET Core/.NET.
+✔ **Javascript**: Criação e manutenção de scripts dentro do Microssoft Dynamics CRM.
+✔ **High-Performance APIs**: Criação de APIs e minimals APIs com .NET bem como consumo de APIs RESTfull.
+✔ **Clean Architecture**: Criação de sistemas fáceis de manter, testar e evoluir, garantindo que as regras de negócio sejam independentes.
+✔ **Controle de Versão**: Git (GitHub, GitLab, Bitbucket) para gerenciamento de código.
+✔ **Segurança:** Autenticação (JWT), autorização e proteção de dados. 
+✔ **Bancos de Dados**: SQL Server, consultas e procedures.
+✔ **Customização do Microssoft Dynamics CRM (Low-Code/No-Code)**: Criação e manutenção de javascripts, Entidades e Plugins.
+
+## 🎯 **Soft Skills**
+
+✔ **Resolução de Problemas**
+	- Habilidade de implementar algoritmos e resolver desafios complexos.
 	- Atendimento de chamados
-	- Priorizar e acompanhar demandas críticas até incidentes de parada dos sistemas.
-	- Mapeamento e priorização de backlog de chamados.
-
-- Melhoria contínua dos sistemas:
-	- Mapeamento de processos de negócios.
-	- Realizar análise de requisitos junto aos stakeholders.
+	- Habilidade de realizar troubleshooting em sistemas com diversas integrações.
+✔ **Comunicação e Documentação**: 
+ 	- Trabalhar em equipe, entender requisitos e colaborar com outros stakeholders.
+	- Mapeamento de processos de negócios
+	- Levantamento de requisitos
 	- Escrever documentação.
+✔ **Aprendizado Contínuo**: Acompanhar as evoluções do .NET e novas tecnologias. 
+
 
 <h2> 📚 &nbsp;O que você vai encontrar aqui?</h2>
 
