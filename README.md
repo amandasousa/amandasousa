@@ -41,16 +41,9 @@ Minhas competências incluem:
 	- Escrever documentação.
 
 
-<h2> 🎓 &nbsp;Eterno aprendiz e educador  </h2
-
-Uma das coisas que eu sou mais apaixonada é continuar aprendendo e compartilhando conhecimentos com os outros. Desde o início da minha jornada, eu tenho fascínio não só em resolver problemas complexos através de códigos e processos, mas também em auxiliar outros a compreenderem e evoluírem em suas próprias jornadas.
-
-Ensinar me ajuda a crescer tanto quanto programar, e estou sempre me esforçando para ser uma desenvolvedora, mentora e um ser humano melhor.
-
-
 <h2> 📚 &nbsp;O que você vai encontrar aqui?</h2>
 
-Estou buscando movimentar essa ferramenta, trabalhei em vários projetos internos e no momento estou buscando movimentar e atualizar meu GitHub como novos projetos.
+Estou buscando movimentar essa ferramenta, trabalhei em vários projetos internos no BitBucket e no momento estou buscando movimentar e atualizar meu GitHub como novos projetos.
 
 Se você gosta de se conectar, colaborar ou tem alguma pergunta, você pode 
  <a href="mailto:amanda.sousab.rocha@gmail.com">clicar aqui e me enviar um e-mail</a> — ou me achar no <a href="https://www.linkedin.com/in/amandasousa/">LinkedIn</a>. Estou sempre aberta a boas conversas e oportunidades interessantes. :) 
