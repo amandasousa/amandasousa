@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>👋 &nbsp;Hey, Eu sou Amanda Sousa, uma profissional de desenvolvimento apaixonada por tecnologia!</h1>
+<h1>👋 &nbsp;Eu sou Amanda Sousa, uma profissional de desenvolvimento apaixonada por tecnologia!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/amandasousa/"><img src="https://img.shields.io/badge/-Meu%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:amanda.sousab@gmail.com"><img src="https://img.shields.io/badge/-Me%20envie%20um%20email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
+<h2>👩🏽‍💻 &nbsp;Sobre mim </h2>
 
-Eu sou analista de Sistemas com experiencia técnica em desenvolvimento com C# e .NET. 
-Atuo como analista, fazendo uma ponte estratégica entre áreas técnicas e de negócio, faço levantamento de requisitos, análise de processos para suporte à tomada de decisão.
+Eu sou uma Analista de Sistemas com experiencia técnica em desenvolvimento com C# e .NET. 
+Atuo também fazendo uma ponte estratégica entre áreas técnicas e de negócio, faço levantamento de requisitos, análise de processos para suporte à tomada de decisão.
 
 Minhas competências incluem:
 
@@ -39,7 +39,6 @@ Minhas competências incluem:
 	- Mapeamento de processos de negócios.
 	- Realizar análise de requisitos junto aos stakeholders.
 	- Escrever documentação.
-
 
 <h2> 📚 &nbsp;O que você vai encontrar aqui?</h2>
 
