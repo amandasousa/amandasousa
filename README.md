@@ -65,6 +65,4 @@ Se você gosta de se conectar, colaborar ou tem alguma pergunta, você pode
 ![VISIO](https://img.shields.io/badge/VISIO-black.svg)
 ![BIZAGI](https://img.shields.io/badge/BIZAGI-black.svg)
 
-<h2>🚀 &nbsp;My GitHub Stats</h2>
 
-![Amanda Sousa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amandasousa&show_icons=true&theme=dracula)
