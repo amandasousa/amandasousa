@@ -1,6 +1,6 @@
 # 💻 Amanda Sousa
 
-### Software Developer | Backend | C# | .NET 
+### Software Developer | Backend | C# | .NET | Dynamics CRM
 
 Eu sou uma Analista de Sistemas com experiencia técnica em desenvolvimento com C# e .NET. <br>
 Atuo também fazendo uma ponte estratégica entre áreas técnicas e de negócio, faço levantamento de requisitos, análise de processos para suporte à tomada de decisão.
@@ -18,7 +18,7 @@ Atuo também fazendo uma ponte estratégica entre áreas técnicas e de negócio
 - ✔ **Controle de Versão**: Git (GitHub, GitLab, Bitbucket) para gerenciamento de código. 
 - ✔ **Segurança:** Autenticação (JWT), autorização e proteção de dados. 
 - ✔ **Bancos de Dados**: SQL Server, consultas e procedures. 
-- ✔ **Customização do Microssoft Dynamics CRM (Low-Code/No-Code)**: Criação e manutenção de javascripts, Entidades e Plugins. 
+- ✔ **Customização do Microsoft Dynamics CRM**: Criação e manutenção de javascripts, Entidades, Plugins e Workflows. Versões 2011 e Dynamics 365.
 
 ## 🎯 **Soft Skills**
 
