@@ -3,7 +3,7 @@
 ### Software Developer | Backend | C# | .NET | Dynamics CRM
 
 Eu sou uma Analista de Sistemas com experiencia técnica em desenvolvimento com C# e .NET. <br>
-Atuo também fazendo uma ponte estratégica entre áreas técnicas e de negócio, faço levantamento de requisitos, análise de processos para suporte à tomada de decisão.
+Atuo também fazendo uma ponte estratégica entre áreas técnicas e de negócio, tenho proficiência em documentação de sistemas, faço levantamento de requisitos, desenho de processos e fluxogramas para suporte à tomada de decisão.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandasousa/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanda.sousab@gmail.com)
@@ -19,11 +19,12 @@ Atuo também fazendo uma ponte estratégica entre áreas técnicas e de negócio
 - ✔ **Segurança:** Autenticação (JWT), autorização e proteção de dados. 
 - ✔ **Bancos de Dados**: SQL Server, consultas e procedures. 
 - ✔ **Customização do Microsoft Dynamics CRM**: Criação e manutenção de javascripts, Entidades, Plugins e Workflows. Versões 2011 e Dynamics 365.
-
+- ✔ **Documentação:** Solution Design Document, Mapeamento de fluxo AS IS e TO BE, BPMN, Diagrama de Sequência, DER.
+- 
 ## 🎯 **Soft Skills**
 
 - ✔ **Resolução de Problemas**
-	- Habilidade de implementar algoritmos e resolver desafios complexos.
+	- Habilidade de implementar algoritmos e resolver desafios.
 	- Atendimento de chamados
 	- Habilidade de realizar troubleshooting em sistemas com diversas integrações.
 - ✔ **Comunicação e Documentação**: 
@@ -36,7 +37,7 @@ Atuo também fazendo uma ponte estratégica entre áreas técnicas e de negócio
 
 <h2> 📚 &nbsp;O que você vai encontrar aqui? </h2>
 
-Estou buscando movimentar essa ferramenta, trabalhei em vários projetos internos no BitBucket e no momento estou buscando movimentar e atualizar meu GitHub como novos projetos.
+Estou buscando movimentar essa ferramenta, trabalhei em vários projetos internos no BitBucket e no momento estou atualizando meu GitHub como novos projetos ou registros de projetos ja trabalhados.
 
 Se você gosta de se conectar, colaborar ou tem alguma pergunta, você pode 
  <a href="mailto:amanda.sousab.rocha@gmail.com">clicar aqui e me enviar um e-mail</a> — ou me achar no <a href="https://www.linkedin.com/in/amandasousa/">LinkedIn</a>. Estou sempre aberta a boas conversas e oportunidades interessantes. :) 
